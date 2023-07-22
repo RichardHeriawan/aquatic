@@ -242,13 +242,13 @@ p {
 
 .menu-toggle .icon-bars {
 	transition: transform 0.3s ease-in, background-color 0.2s ease;
-	background-color: #000;
+	background-color: rgba(161, 149, 74, 0.81);
 }
 
 .menu-toggle .icon-bars:before,
 .menu-toggle .icon-bars:after {
 	transition: top 0.3s 0.3s ease-in, transform 0.3s ease-in, background-color 0.2s ease;
-	background-color: #000;
+	background-color: rgba(161, 149, 74, 0.81);
 }
 
 .menu-toggle:active .icon-bars,
@@ -292,7 +292,7 @@ p {
 .icon-bars,
 .icon-bars:before,
 .icon-bars:after {
-	background-color: #fffab4;
+	background-color: #273138;
 }
 
 .icon-bars:before,
